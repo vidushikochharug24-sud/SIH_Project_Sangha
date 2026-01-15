@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+SIH 2025 – Monasteries of Sikkim
+This repository is part of the team project developed for Smart India Hackathon 2025.
 
-## Getting Started
+My Role
+Built responsive and user-friendly frontend using Next.js and Tailwind CSS
+Created UI components and integrated map features
+Worked with team to align frontend with backend APIs
+Created OCR feature using tessaract, to extract text from manuscripts
+Tech Stack
+Next.js | Tailwind CSS | Mapbox | Google Maps | PWA | Firebase | tessaract
 
-First, run the development server:
+Learning Outcomes
+Gained hands-on experience building frontend architecture for a real-world problem Learned how to translate problem statements into clear UI workflows Improved understanding of responsive design and accessibility Experienced collaboration and rapid iteration in a hackathon environment
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+PS 25061 SIH Hackathon
+👥 Team Details
+Team Name: SyntaxSinners
+Team Leader: @radhika-c06
+Team Members:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+MEMBER_1 – 2024UEC2628 – @radhika-c06
+MEMBER_2 – 2024UEC2633 – @vidushi2124
+MEMBER_3 – 2024UEC2616 – @palaksachdeva
+MEMBER_4 – 2024UIC4050 – @anshjayara
+MEMBER_5 – 2024UIC3558 – @malhotrakavyansh
+MEMBER_6 – 2024UIC3648 – @aryanbansal2124
+🔗 Project Links
+SIH Presentation: Final SIH Presentation
+Video Demonstration: Watch Video
+Source Code: GitHub Repository
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
